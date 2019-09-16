@@ -45,7 +45,7 @@ target.shapeColor="red";
 
 
 function draw() {
-  background("white");
+  background("green");
  
   
   if (keyDown("up")) {
